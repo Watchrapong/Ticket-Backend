@@ -21,7 +21,7 @@ namespace Ticket_Backend.Data.Repository.IRepository
                 objFromDb.Address = obj.Address;
                 objFromDb.Tel = obj.Tel;
                 objFromDb.Email = obj.Email;
-    }
+            }
         }
     }
 }
