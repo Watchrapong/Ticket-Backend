@@ -34,6 +34,7 @@ namespace Ticket_Backend.Data.Repository
                 objFromDb.EquipmentId = obj.EquipmentId;
                 objFromDb.TicketStatus = obj.TicketStatus;
             }
+        }
     }
 }
 

@@ -54,5 +54,4 @@ namespace Ticket_Backend.Data.Repository
         }
     }
 }
-}
 

@@ -2058,19 +2058,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/glajaja/.nuget/packages/": {}
+    "/Users/hypnos/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/glajaja/Enixer/Ticket-Backend/Ticket-Backend/Ticket-Backend.csproj",
+      "projectUniqueName": "/Users/hypnos/Desktop/Ticket-Backend/Ticket-Backend/Ticket-Backend.csproj",
       "projectName": "Ticket-Backend",
-      "projectPath": "/Users/glajaja/Enixer/Ticket-Backend/Ticket-Backend/Ticket-Backend.csproj",
-      "packagesPath": "/Users/glajaja/.nuget/packages/",
-      "outputPath": "/Users/glajaja/Enixer/Ticket-Backend/Ticket-Backend/obj/",
+      "projectPath": "/Users/hypnos/Desktop/Ticket-Backend/Ticket-Backend/Ticket-Backend.csproj",
+      "packagesPath": "/Users/hypnos/.nuget/packages/",
+      "outputPath": "/Users/hypnos/Desktop/Ticket-Backend/Ticket-Backend/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/glajaja/.config/NuGet/NuGet.Config"
+        "/Users/hypnos/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

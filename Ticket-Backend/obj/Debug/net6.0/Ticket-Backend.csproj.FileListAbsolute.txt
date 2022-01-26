@@ -58,3 +58,10 @@
 /Users/glajaja/Enixer/Ticket-Backend/Ticket-Backend/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
 /Users/glajaja/Enixer/Ticket-Backend/Ticket-Backend/bin/Debug/net6.0/Humanizer.dll
 /Users/glajaja/Enixer/Ticket-Backend/Ticket-Backend/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/hypnos/Desktop/Ticket-Backend/Ticket-Backend/obj/Debug/net6.0/Ticket-Backend.csproj.AssemblyReference.cache
+/Users/hypnos/Desktop/Ticket-Backend/Ticket-Backend/obj/Debug/net6.0/Ticket-Backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hypnos/Desktop/Ticket-Backend/Ticket-Backend/obj/Debug/net6.0/Ticket-Backend.AssemblyInfoInputs.cache
+/Users/hypnos/Desktop/Ticket-Backend/Ticket-Backend/obj/Debug/net6.0/Ticket-Backend.AssemblyInfo.cs
+/Users/hypnos/Desktop/Ticket-Backend/Ticket-Backend/obj/Debug/net6.0/Ticket-Backend.csproj.CoreCompileInputs.cache
+/Users/hypnos/Desktop/Ticket-Backend/Ticket-Backend/obj/Debug/net6.0/Ticket-Backend.MvcApplicationPartsAssemblyInfo.cs
+/Users/hypnos/Desktop/Ticket-Backend/Ticket-Backend/obj/Debug/net6.0/Ticket-Backend.MvcApplicationPartsAssemblyInfo.cache
