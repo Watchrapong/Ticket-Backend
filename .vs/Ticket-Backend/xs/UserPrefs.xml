@@ -1,10 +1,18 @@
 ﻿<Properties StartupConfiguration="{B7C79F55-A7E1-404F-A351-83AC697EEF56}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Ticket-Backend/appsettings.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ticket-Backend/Data/ApplicationDbContext.cs">
     <Files>
-      <File FileName="Ticket-Backend/appsettings.json" Line="1" Column="1" />
-      <File FileName="Ticket-Backend/Program.cs" Line="1" Column="1" />
-      <File FileName="Ticket-Backend/WeatherForecast.cs" Line="1" Column="1" />
-      <File FileName="Ticket-Backend/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="Ticket-Backend/models/User.cs" Line="24" Column="31" />
+      <File FileName="Ticket-Backend/models/Customer.cs" Line="19" Column="33" />
+      <File FileName="Ticket-Backend/models/Equipment.cs" Line="20" Column="37" />
+      <File FileName="Ticket-Backend/Data/ApplicationDbContext.cs" Line="40" Column="50" />
+      <File FileName="Ticket-Backend/appsettings.json" Line="10" Column="88" />
+      <File FileName="Ticket-Backend/models/Associate.cs" Line="17" Column="1" />
+      <File FileName="Ticket-Backend/models/BaseEntity.cs" Line="10" Column="6" />
+      <File FileName="Ticket-Backend/models/Tasks.cs" Line="10" Column="9" />
+      <File FileName="Ticket-Backend/models/Ticket.cs" Line="28" Column="15" />
+      <File FileName="Ticket-Backend/models/Enum/TicketStatus.cs" Line="1" Column="1" />
+      <File FileName="Ticket-Backend/models/TicketStatusLog.cs" Line="15" Column="20" />
+      <File FileName="Ticket-Backend/models/TicketComment.cs" Line="9" Column="36" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,7 +20,13 @@
           <Node name="Ticket-Backend" expanded="True">
             <Node name="Ticket-Backend" expanded="True">
               <Node name="Controllers" expanded="True" />
-              <Node name="appsettings.json" selected="True" />
+              <Node name="Data" expanded="True">
+                <Node name="ApplicationDbContext.cs" selected="True" />
+              </Node>
+              <Node name="models" expanded="True">
+                <Node name="Enum" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
             </Node>
           </Node>
         </State>
