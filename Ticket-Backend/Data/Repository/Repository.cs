@@ -1,6 +1,7 @@
 ﻿using System;
 using Ticket_Backend.Data.Repository.IRepository;
 using Microsoft.EntityFrameworkCore;
+using System.Linq.Expressions;
 
 namespace Ticket_Backend.Data.Repository
 {

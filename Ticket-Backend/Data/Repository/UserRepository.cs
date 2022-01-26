@@ -24,7 +24,7 @@ namespace Ticket_Backend.Data.Repository
                 objFromDb.UserName = obj.UserName;
                 objFromDb.Password = obj.Password;
                 objFromDb.IsDelete = obj.IsDelete;
-    }
+            }
         }
     }
 }
