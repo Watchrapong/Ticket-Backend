@@ -9,7 +9,7 @@ namespace Ticket_Backend.Data.Repository
 
         private ApplicationDbContext _db;
 
-        public ProductRepository(ApplicationDbContext db) : base(db)
+        public TicketRepository(ApplicationDbContext db) : base(db)
         {
             _db = db;
         }
