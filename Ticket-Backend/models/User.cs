@@ -5,7 +5,6 @@ namespace Ticket_Backend.models
 {
 	public class User:BaseEntity
 	{
-		public int UserId { get; set; }
 
 		public string Name { get; set; }
 

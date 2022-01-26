@@ -5,6 +5,10 @@ namespace Ticket_Backend.Data.Repository.IRepository
 	{
 		ITicketRepository Ticket { get; }
 
+		IUserRepository User { get; }
+
+		ICustomerRepository Customer { get; }
+
 		void save();
 	}
 }

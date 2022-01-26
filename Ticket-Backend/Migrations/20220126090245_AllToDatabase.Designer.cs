@@ -12,8 +12,8 @@ using Ticket_Backend.Data;
 namespace Ticket_Backend.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20220125103614_AllToDatabse")]
-    partial class AllToDatabse
+    [Migration("20220126090245_AllToDatabase")]
+    partial class AllToDatabase
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -315,9 +315,6 @@ namespace Ticket_Backend.Migrations
 
                     b.Property<DateTime?>("UpdatedAt")
                         .HasColumnType("datetime2");
-
-                    b.Property<int>("UserId")
-                        .HasColumnType("int");
 
                     b.Property<string>("UserName")
                         .IsRequired()

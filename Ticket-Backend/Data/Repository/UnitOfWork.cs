@@ -12,9 +12,15 @@ namespace Ticket_Backend.Data.Repository
 		{
             _db = db;
             Ticket = new TicketRepository(_db);
+            User = new UserRepository(_db);
+            Customer = new CustomerRepository(_db);
 		}
 
         public ITicketRepository Ticket { get; private set; }
+
+        public IUserRepository User { get; private set; }
+
+        public ICustomerRepository Customer { get; private set; }
 
         public void save()
         {

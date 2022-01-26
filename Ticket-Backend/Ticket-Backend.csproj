@@ -19,6 +19,7 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Analyzers" Version="6.0.1" />
   </ItemGroup>
 
   <ItemGroup>
@@ -30,11 +31,14 @@
     <None Remove="models\Enum\" />
     <None Remove="Data\Repository\" />
     <None Remove="Data\Repository\IRepository\" />
+    <None Remove="Microsoft.EntityFrameworkCore.Analyzers" />
+    <None Remove="Migrations\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="models\" />
     <Folder Include="models\Enum\" />
     <Folder Include="Data\Repository\" />
     <Folder Include="Data\Repository\IRepository\" />
+    <Folder Include="Migrations\" />
   </ItemGroup>
 </Project>

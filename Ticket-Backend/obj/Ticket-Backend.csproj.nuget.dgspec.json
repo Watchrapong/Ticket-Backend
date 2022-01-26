@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hypnos/Desktop/Ticket-Backend/Ticket-Backend/Ticket-Backend.csproj": {}
+    "/Users/glajaja/Enixer/Ticket-Backend/Ticket-Backend/Ticket-Backend.csproj": {}
   },
   "projects": {
-    "/Users/hypnos/Desktop/Ticket-Backend/Ticket-Backend/Ticket-Backend.csproj": {
+    "/Users/glajaja/Enixer/Ticket-Backend/Ticket-Backend/Ticket-Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hypnos/Desktop/Ticket-Backend/Ticket-Backend/Ticket-Backend.csproj",
+        "projectUniqueName": "/Users/glajaja/Enixer/Ticket-Backend/Ticket-Backend/Ticket-Backend.csproj",
         "projectName": "Ticket-Backend",
-        "projectPath": "/Users/hypnos/Desktop/Ticket-Backend/Ticket-Backend/Ticket-Backend.csproj",
-        "packagesPath": "/Users/hypnos/.nuget/packages/",
-        "outputPath": "/Users/hypnos/Desktop/Ticket-Backend/Ticket-Backend/obj/",
+        "projectPath": "/Users/glajaja/Enixer/Ticket-Backend/Ticket-Backend/Ticket-Backend.csproj",
+        "packagesPath": "/Users/glajaja/.nuget/packages/",
+        "outputPath": "/Users/glajaja/Enixer/Ticket-Backend/Ticket-Backend/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/hypnos/.nuget/NuGet/NuGet.Config"
+          "/Users/glajaja/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -39,6 +39,10 @@
           "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Analyzers": {
               "target": "Package",
               "version": "[6.0.1, )"
             },
